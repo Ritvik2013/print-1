@@ -1,0 +1,6 @@
+print("welcome to the world of programing")
+print("My name is Ritvik")
+print(5)
+print(12)
+print("What is your name \n How old are you")
+print("Hello", 5)
